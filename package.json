@@ -1,0 +1,8 @@
+{
+  "author": "Andrea Mangano <andreaman87@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "config",
+  "repository": "https://github.com/repills/components-library.git",
+  "version": "1.0.0"
+}
