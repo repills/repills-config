@@ -4,5 +4,5 @@
   "main": "src/index.js",
   "name": "config",
   "repository": "https://github.com/repills/repills-config.git",
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
