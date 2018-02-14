@@ -2,10 +2,10 @@ const
   ARTICLE_COLOR = '#bfd40d',
   VIDEO_COLOR = '#faae02',
   LIBRARY_COLOR = '#10bfd0',
-  BOOK_COLOR = '#fd7244',
-  TUTORIAL_COLOR = '#fd61aa',
+  BOOK_COLOR = '#fd61aa',
+  TUTORIAL_COLOR = '#fd7244',
   TALK_COLOR = '#fee63c',
-  COURSE_COLOR = '#e20e3c',
+  COURSE_COLOR = '#ff2c6d',
   TOOL_COLOR = '#afafaf';
 
 const article = {
