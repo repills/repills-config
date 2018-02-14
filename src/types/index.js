@@ -1,12 +1,12 @@
 const
-  ARTICLE_COLOR = '#14cc4c',
-  VIDEO_COLOR = '#ffa119',
-  LIBRARY_COLOR = '#62bfdc',
-  BOOK_COLOR = '#e74c3c',
-  TUTORIAL_COLOR = '#e75077',
-  TALK_COLOR = '#ffd559',
-  COURSE_COLOR = '#ff4e50',
-  TOOL_COLOR = '#daca90';
+  ARTICLE_COLOR = '#bfd40d',
+  VIDEO_COLOR = '#faae02',
+  LIBRARY_COLOR = '#10bfd0',
+  BOOK_COLOR = '#fd7244',
+  TUTORIAL_COLOR = '#fd61aa',
+  TALK_COLOR = '#fee63c',
+  COURSE_COLOR = '#e20e3c',
+  TOOL_COLOR = '#afafaf';
 
 const article = {
   id: 'article',
