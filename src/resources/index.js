@@ -3,7 +3,7 @@ module.exports = [
   'link',
   'title',
   'author',
-  'publishedDate',
+  'publishedAt',
   'type',
   'topics',
   'suggestedBy',
