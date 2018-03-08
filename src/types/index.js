@@ -1,7 +1,7 @@
 const
-  ARTICLE_COLOR = '#754fa0',
+  ARTICLE_COLOR = '#90d36b',
   VIDEO_COLOR = '#09b7bf',
-  LIBRARY_COLOR = '#90d36b',
+  LIBRARY_COLOR = '#754fa0',
   BOOK_COLOR = '#ff2c6d',
   TUTORIAL_COLOR = '#fcb12b',
   TALK_COLOR = '#ed1b72',

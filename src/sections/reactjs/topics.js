@@ -58,7 +58,7 @@ const topics = {
     slug: 'react-tests'
   },
   react_redux: {
-    title: 'React witj Redux',
+    title: 'React with Redux',
     slug: 'react-redux'
   },
   react_tips: {

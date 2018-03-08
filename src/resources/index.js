@@ -1,11 +1,12 @@
 module.exports = [
+  'sections',
   'link',
   'title',
   'author',
-  'sections',
-  'topics',
+  'publishedDate',
   'type',
-  'date'
-  // 'suggestedBy',
-  // 'createdAt'
+  'topics',
+  'suggestedBy',
+  'createdAt',
+  'reference'
 ];
