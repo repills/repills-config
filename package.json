@@ -1,8 +1,18 @@
 {
   "author": "Andrea Mangano <andreaman87@gmail.com>",
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "name": "config",
   "repository": "https://github.com/repills/repills-config.git",
-  "version": "1.3.1"
+  "version": "1.3.1",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
 }
