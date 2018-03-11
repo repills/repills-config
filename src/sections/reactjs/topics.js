@@ -69,6 +69,10 @@ const topics = {
     title: 'Style in React',
     slug: 'react-style'
   },
+  hoc: {
+    title: 'HOC - Higher Order Components',
+    slug: 'higher-order-components'
+  },
   react_performance_increasing: {
     title: 'React performance increasing',
     slug: 'react-performance-increasing'
