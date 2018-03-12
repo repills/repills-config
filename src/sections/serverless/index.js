@@ -5,6 +5,7 @@ module.exports = {
   name: 'Serverless',
   icon: 'ServerlessIcon',
   color: '#ffd426',
+  path: '/serverless',
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar, dui vitae aliquam tempor.',
   maintainers: [
     {
