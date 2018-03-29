@@ -2,16 +2,16 @@ const adjustTopics = require('../utils/adjustTopics');
 
 const topics = {
   why_react: {
-    title: 'Why serverless?',
-    slug: 'why-you-should-use-serverless'
+    title: 'Why Redux?',
+    slug: 'why-you-should-use-redux'
   },
   get_started: {
-    title: 'Getting started with serverless',
-    slug: 'getting-started-with-serverless'
+    title: 'Getting started with Redux',
+    slug: 'getting-started-with-redux'
   },
   miscellaneous: {
     title: 'Miscellaneous',
-    slug: 'serverless-miscellaneous'
+    slug: 'redux-miscellaneous'
   }
 };
 

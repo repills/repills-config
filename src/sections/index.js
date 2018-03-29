@@ -1,4 +1,5 @@
 module.exports = [
   require('./reactjs'),
-  require('./serverless')
+  require('./serverless'),
+  require('./redux'),
 ];
