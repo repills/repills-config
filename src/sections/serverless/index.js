@@ -2,6 +2,7 @@ const sectionId = 'serverless';
 
 module.exports = {
   id: sectionId,
+  slug: sectionId,
   name: 'Serverless',
   icon: 'ServerlessIcon',
   color: '#ffd426',

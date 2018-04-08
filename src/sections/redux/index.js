@@ -2,6 +2,7 @@ const sectionId = 'redux';
 
 module.exports = {
   id: sectionId,
+  slug: sectionId,
   name: 'Redux',
   icon: 'ReduxIcon',
   color: '#774bb9',

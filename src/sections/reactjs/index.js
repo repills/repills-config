@@ -2,6 +2,7 @@ const sectionId = 'reactjs';
 
 module.exports = {
   id: sectionId,
+  slug: sectionId,
   name: 'React',
   icon: 'ReactIcon',
   color: '#53c1de',
