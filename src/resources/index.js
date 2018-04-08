@@ -6,6 +6,7 @@ module.exports = [
   'publishedAt',
   'type',
   'topics',
+  'slug',
   'suggestedBy',
   'createdAt',
   'reference'
