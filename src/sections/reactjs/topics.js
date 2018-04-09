@@ -10,10 +10,7 @@ const topics = {
       'Benefits of React',
       'React js props & cons',
       'What is React good for',
-      'React advantages and disadvantages',
-      'Advantages of React js over Angular js',
-      'React vs Angular',
-      'React vs Vue'
+      'React advantages and disadvantages'
     ]
   },
   get_started: {
@@ -45,7 +42,8 @@ const topics = {
       'Children in JSX',
       'Functions as JSX Children',
       'JSX In Depth',
-      'Advantages to use JSX'
+      'Advantages to use JSX',
+      'Using inline CSS in JSX'
     ]
   },
   react_components: {
@@ -66,7 +64,7 @@ const topics = {
     ]
   },
   props_proptypes: {
-    title: 'Props & PropTypes',
+    title: 'Props & PropTypes in React',
     slug: 'react-props-proptypes',
     similar: [
       'How to use React PropTypes',
@@ -81,7 +79,7 @@ const topics = {
     ]
   },
   component_state: {
-    title: 'Component State',
+    title: 'React Component State',
     slug: 'react-component-state',
     similar: [
       'What is the React component State',
@@ -101,30 +99,85 @@ const topics = {
     ]
   },
   functional_components: {
-    title: 'Functional Components',
+    title: 'React functional Components',
     slug: 'react-stateless-functional-components',
     similar: [
       'What is a functional React component',
+      'What are functional components good for',
+      'How to access props in a Functional Component',
+      'React functional components vs class',
+      'ES6 classes vs. function components: which to use?'
     ]
   },
   lifecycle_methods: {
-    title: 'Lifecycle Methods',
-    slug: 'react-lifecycle-methods'
+    title: 'React component Lifecycle Methods',
+    slug: 'react-lifecycle-methods',
+    similar: [
+      'Lifecycle Methods Overview',
+      'How To Use React.js Component Lifecycle Methods',
+      'When to use React Lifecycle',
+      'State and Lifecycle in React',
+      'Understanding the React Component Lifecycle',
+      'Mastering the React Lifecycle Methods',
+      'React Lifecycle diagram',
+      'Manage React Component State with Lifecycle Methods',
+      'React unmount Component'
+    ]
   },
   forms: {
     title: 'React Forms',
-    slug: 'react-forms'
+    slug: 'react-forms',
+    similar: [
+      'Understanding forms in React',
+      'React form validation library',
+      'React controlled and uncontrolled components',
+      'React form examples',
+      'React form submit',
+      'React form libraries',
+      'React Redux form validation',
+      'React multiple checkboxes',
+      'React select example',
+      'React get form values on submit',
+      'React onchange pass value',
+      'Handling multiple inputs on React form',
+      'Alternatives to controlled components',
+      'Recommended way of working with Forms in React',
+      'Defining the form and its events in React',
+      'Forms and events in React',
+      'onChange vs onInput'
+    ]
   },
   react_events: {
     title: 'Events in React',
-    slug: 'react-sytnthetic-events'
+    slug: 'react-sytnthetic-events',
+    similar: [
+      'How to work with Events in React',
+      'React SyntheticEvent library',
+      'React event click',
+      'React event prevent default',
+      'React onclick pass parameter'
+    ]
   },
   react_patterns: {
     title: 'React design patterns',
-    slug: 'react-development-design-patterns'
+    slug: 'react-development-design-patterns',
+    similar: [
+      'React composition patterns',
+      'React communication patterns',
+      'React provider pattern',
+      'Event switch',
+      'React higher order components (HOC)',
+      'React HOC decorator',
+      'React component context',
+      'Container component',
+      'Controlled input',
+      'Destructuring arguments',
+      'Array as children',
+      'Container presentational pattern'
+    ]
   },
   routing_client_side: {
-    title: 'Routing client side',
+    title: 'React routing client side',
     slug: 'react-routing-client-side'
   },
   miscellaneous: {
@@ -139,7 +192,17 @@ const topics = {
     title: 'React with Redux',
     slug: 'react-redux',
     similar: [
-      'React Redux architecture'
+      'React Redux architecture',
+      'React Redux boilerplate',
+      'React Redux reducer',
+      'React Redux dispatch action',
+      'Why React with Redux is good for you',
+      'React Redux tutorial',
+      'React Redux form',
+      'Replacing Redux with the new React context API',
+      'React Redux universal boilerplate',
+      'React Redux best practices',
+      'Redux integration'
     ]
   },
   react_tips: {
@@ -147,15 +210,29 @@ const topics = {
     slug: 'react-tips'
   },
   react_style: {
-    title: 'Style in React',
-    slug: 'react-style'
+    title: 'Styling in React',
+    slug: 'react-style',
+    similar: [
+      'Ways to style React components',
+      'Inline Styles with React',
+      'How to style React Components with styled-components',
+      'React style attribute',
+      'JSX className attribute',
+      'Using CSS Modules with React'
+    ]
   },
   hoc: {
-    title: 'HOC - Higher Order Components',
-    slug: 'higher-order-components'
+    title: 'React HOC - Higher Order Components',
+    slug: 'higher-order-components',
+    similar: [
+      'Understanding Higher Order Components',
+      'Composing Higher-Order Components (HOCs)',
+      'Reusing React Component logic with Higher Order Components',
+      'React HOC: Theory and Practice'
+    ]
   },
   react_performance_increasing_optimizations: {
-    title: 'Performance increasing & optimizations',
+    title: 'React Performance increasing & optimizations',
     slug: 'react-performance-increasing-optimizations'
   },
   react_case_studies: {
@@ -167,20 +244,25 @@ const topics = {
     slug: 'react-reviews'
   },
   react_sample_applications: {
-    title: 'Sample applications',
+    title: 'React sample applications',
     slug: 'react-sample-applications'
   },
   react_server_side_rendering: {
-    title: 'Server side rendering',
+    title: 'React server side rendering (SSR)',
     slug: 'react-server-side-rendering'
   },
   react_managing_application_state: {
-    title: 'Managing application state',
+    title: 'Managing application state in React',
     slug: 'react-managing-application-state'
   },
   react_comparison: {
     title: 'React comparison',
-    slug: 'react-frameworks-libraries-comparison'
+    slug: 'react-frameworks-libraries-comparison',
+    similar: [
+      'Advantages of React js over Angular js',
+      'React vs Angular',
+      'React vs Vue'
+    ]
   },
   react_transitions_animations: {
     title: 'Transitions & animations in React',
