@@ -4,7 +4,7 @@
   "main": "lib/index.js",
   "name": "config",
   "repository": "https://github.com/repills/repills-config.git",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "scripts": {
     "build": "babel src -d lib"
   },
