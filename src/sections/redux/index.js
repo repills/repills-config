@@ -3,7 +3,7 @@ const sectionId = 'redux';
 module.exports = {
   id: sectionId,
   slug: sectionId,
-  name: 'Redux',
+  name: 'Redux.js',
   icon: 'ReduxIcon',
   color: '#774bb9',
   path: '/redux',

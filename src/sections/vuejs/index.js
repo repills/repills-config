@@ -3,7 +3,7 @@ const sectionId = 'vuejs';
 module.exports = {
   id: sectionId,
   slug: sectionId,
-  name: 'Vue',
+  name: 'Vue.js',
   icon: 'VueIcon',
   color: '#4dba87',
   path: '/vuejs',

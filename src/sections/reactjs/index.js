@@ -3,7 +3,7 @@ const sectionId = 'reactjs';
 module.exports = {
   id: sectionId,
   slug: sectionId,
-  name: 'React',
+  name: 'React.js',
   icon: 'ReactIcon',
   color: '#53c1de',
   path: '/reactjs',
