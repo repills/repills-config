@@ -330,8 +330,8 @@ collected for you a number of über interesting links about React performance.
   react_reviews: {
     title: 'React reviews',
     slug: 'react-reviews'
-    description: `This topic collects reviews about React and React
-applications.
+    description: `This topic collects useful reviews about React
+applications and libraries.
 `,
   },
   react_sample_applications: {
