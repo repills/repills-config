@@ -229,7 +229,7 @@ order components (HOC), the provider pattern, etc.
   },
   routing_client_side: {
     title: 'React routing client side',
-    slug: 'react-routing-client-side'
+    slug: 'react-routing-client-side',
     description: `Most of single page applications (SPAs) will need to display
 different sections to the user, hence you'll probably need a routing layer to
 be able to switch across them. React doesn't come with a baked in router, but
@@ -239,14 +239,14 @@ React app. Find out what are all the option with the links in this topic.
   },
   miscellaneous: {
     title: 'Miscellaneous',
-    slug: 'react-miscellaneous'
+    slug: 'react-miscellaneous',
     description: `A topic that contains links that are relevant to React but
 hard to classify under other topics.
 `,
   },
   react_tests: {
     title: 'React Tests',
-    slug: 'react-tests'
+    slug: 'react-tests',
     description: `There's no such thing as a bug-free application, every good
 developer knows that. Tests are your friends with the never ending battle
 against bugs. In this topic you'll learn a lot about how to test React
@@ -276,7 +276,7 @@ that will get you started quickly with the Redux-React combo.
   },
   react_tips: {
     title: 'React tips',
-    slug: 'react-tips'
+    slug: 'react-tips',
     description: `A topic with a resourceful collection of tips and ticks for
 React.
 `,
@@ -329,14 +329,14 @@ collected for you a number of über interesting links about React performance.
   },
   react_reviews: {
     title: 'React reviews',
-    slug: 'react-reviews'
+    slug: 'react-reviews',
     description: `This topic collects useful reviews about React
 applications and libraries.
 `,
   },
   react_sample_applications: {
     title: 'React sample applications',
-    slug: 'react-sample-applications'
+    slug: 'react-sample-applications',
     description: `In this topic you will find a collection of sample
 applications that can be very useful if you are learning React and you want to
 compare your code with some ready-made applications.`
