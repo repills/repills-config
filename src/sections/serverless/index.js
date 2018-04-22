@@ -1,4 +1,4 @@
-const sectionId = 'serverless';
+const sectionId = 'serverless'
 
 module.exports = {
   id: sectionId,
@@ -16,5 +16,4 @@ module.exports = {
   ],
   destinationDirName: sectionId,
   topics: require('./topics')(sectionId)
-};
-
+}

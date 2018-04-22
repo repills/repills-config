@@ -1,4 +1,4 @@
-const adjustTopics = require('../utils/adjustTopics');
+const adjustTopics = require('../utils/adjustTopics')
 
 const topics = {
   why_react: {
@@ -13,8 +13,8 @@ const topics = {
     title: 'Miscellaneous',
     slug: 'redux-miscellaneous'
   }
-};
+}
 
-module.exports = function(sectionId) {
-  return adjustTopics({ topics, sectionId });
-};
+module.exports = function (sectionId) {
+  return adjustTopics({ topics, sectionId })
+}

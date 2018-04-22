@@ -1,4 +1,4 @@
-const sectionId = 'vuejs';
+const sectionId = 'vuejs'
 
 module.exports = {
   id: sectionId,
@@ -16,4 +16,4 @@ module.exports = {
   ],
   destinationDirName: sectionId,
   topics: require('./topics')(sectionId)
-};
+}

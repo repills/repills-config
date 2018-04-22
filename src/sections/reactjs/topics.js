@@ -1,4 +1,4 @@
-const adjustTopics = require('../utils/adjustTopics');
+const adjustTopics = require('../utils/adjustTopics')
 
 const topics = {
   why_react: {
@@ -268,8 +268,8 @@ const topics = {
     title: 'Transitions & animations in React',
     slug: 'react-transitions-animations'
   }
-};
+}
 
-module.exports = function(sectionId) {
-  return adjustTopics({ topics, sectionId });
-};
+module.exports = function (sectionId) {
+  return adjustTopics({ topics, sectionId })
+}
