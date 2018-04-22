@@ -1,4 +1,4 @@
-const sectionId = 'redux';
+const sectionId = 'redux'
 
 module.exports = {
   id: sectionId,
@@ -16,4 +16,4 @@ module.exports = {
   ],
   destinationDirName: sectionId,
   topics: require('./topics')(sectionId)
-};
+}

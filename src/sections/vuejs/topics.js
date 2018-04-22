@@ -1,4 +1,4 @@
-const adjustTopics = require('../utils/adjustTopics');
+const adjustTopics = require('../utils/adjustTopics')
 
 const topics = {
   why_vue: {
@@ -132,8 +132,8 @@ const topics = {
     title: 'Transitions & animations in Vue',
     slug: 'vue-transitions-animations'
   }
-};
+}
 
-module.exports = function(sectionId) {
-  return adjustTopics({ topics, sectionId });
-};
+module.exports = function (sectionId) {
+  return adjustTopics({ topics, sectionId })
+}

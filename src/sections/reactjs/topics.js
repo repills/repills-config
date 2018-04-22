@@ -1,4 +1,4 @@
-const adjustTopics = require('../utils/adjustTopics');
+const adjustTopics = require('../utils/adjustTopics')
 
 const topics = {
   why_react: {
@@ -374,8 +374,8 @@ frontend frameworks.
 links that can help you with answering this question.
 `,
   }
-};
+}
 
-module.exports = function(sectionId) {
-  return adjustTopics({ topics, sectionId });
-};
+module.exports = function (sectionId) {
+  return adjustTopics({ topics, sectionId })
+}

@@ -10,4 +10,4 @@ module.exports = [
   'suggestedBy',
   'createdAt',
   'reference'
-];
+]
