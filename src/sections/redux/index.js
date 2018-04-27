@@ -6,7 +6,7 @@ module.exports = {
   name: 'Redux.js',
   icon: 'ReduxIcon',
   color: '#774bb9',
-  path: '/redux',
+  path: '/redux/',
   description: 'Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments and are easy to test.',
   maintainers: [
     {
