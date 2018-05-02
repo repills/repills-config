@@ -9,5 +9,6 @@ module.exports = [
   'slug',
   'suggestedBy',
   'createdAt',
-  'reference'
+  'reference',
+  'abstract'
 ]
