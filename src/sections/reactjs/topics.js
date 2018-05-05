@@ -235,14 +235,14 @@ different sections to the user, hence you'll probably need a routing layer to
 be able to switch across them. React doesn't come with a baked in router, but
 there are libraries or techniques that you can use to adopt routing in your
 React app. Find out what are all the option with the links in this topic.
-`,
+`
   },
   miscellaneous: {
     title: 'Miscellaneous',
     slug: 'react-miscellaneous',
     description: `A topic that contains links that are relevant to React but
 hard to classify under other topics.
-`,
+`
   },
   react_tests: {
     title: 'React Tests',
@@ -251,7 +251,7 @@ hard to classify under other topics.
 developer knows that. Tests are your friends with the never ending battle
 against bugs. In this topic you'll learn a lot about how to test React
 applications.
-`,
+`
   },
   react_redux: {
     title: 'React with Redux',
@@ -277,9 +277,7 @@ that will get you started quickly with the Redux-React combo.
   react_tips: {
     title: 'React tips',
     slug: 'react-tips',
-    description: `A topic with a resourceful collection of tips and ticks for
-React.
-`,
+    description: `A topic with a resourceful collection of tips and ticks for React.`
   },
   react_style: {
     title: 'Styling in React',
@@ -317,7 +315,7 @@ able to learn why and when to use it.
     slug: 'react-performance-increasing-optimizations',
     description: `How to make a React app performant? If that's your current
 task, this topic will be very useful to you.
-`,
+`
   },
   react_case_studies: {
     title: 'React case studies',
@@ -325,14 +323,14 @@ task, this topic will be very useful to you.
     description: `Case studies are always great to understand how other
 developers are taking advantage of specific techologies. In this topic we
 collected for you a number of über interesting links about React performance.
-`,
+`
   },
   react_reviews: {
     title: 'React reviews',
     slug: 'react-reviews',
     description: `This topic collects useful reviews about React
 applications and libraries.
-`,
+`
   },
   react_sample_applications: {
     title: 'React sample applications',
@@ -340,7 +338,6 @@ applications and libraries.
     description: `In this topic you will find a collection of sample
 applications that can be very useful if you are learning React and you want to
 compare your code with some ready-made applications.`
-,
   },
   react_server_side_rendering: {
     title: 'React server side rendering (SSR)',
@@ -350,7 +347,7 @@ possibility to render the markup of one or more components directly to HTML from
 the server side. This characteristic opens up a lot of interesting opportunities
 like the possibility to generate static websites using React as a template
 engine, or the possibility to build "Universal" JavaScript applications.
-`,
+`
   },
   react_comparison: {
     title: 'React comparison',
@@ -372,7 +369,7 @@ frontend frameworks.
     slug: 'react-transitions-animations',
     description: `How to add animations in a React app? This topic collects
 links that can help you with answering this question.
-`,
+`
   }
 }
 

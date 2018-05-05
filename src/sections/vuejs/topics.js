@@ -41,7 +41,10 @@ const topics = {
       'Vue pure components',
       'Rendering a Vue component',
       'Writing highly reusable Vue components'
-    ]
+    ],
+    description: `Components are one of the most powerful features of Vue.js. They help you extend basic HTML 
+elements to encapsulate reusable code. At a high level, Components are custom elements that Vue.js’ 
+compiler would attach specified behavior to.`
   },
   vue_props_proptypes: {
     title: 'Props & PropTypes in Vue',
@@ -96,7 +99,8 @@ const topics = {
   },
   vue_tips: {
     title: 'Vue tips',
-    slug: 'vue-tips'
+    slug: 'vue-tips',
+    description: `A topic with a resourceful collection of tips and ticks for Vue.`
   },
   vue_styling: {
     title: 'Styling in Vue',
@@ -122,7 +126,10 @@ const topics = {
   },
   vue_sample_applications: {
     title: 'Vue sample applications',
-    slug: 'vue-sample-applications'
+    slug: 'vue-sample-applications',
+    description: `In this topic you will find a collection of sample
+applications that can be very useful if you are learning Vue and you want to
+compare your code with some ready-made applications.`
   },
   vue_server_side_rendering: {
     title: 'Vue server side rendering (SSR)',
