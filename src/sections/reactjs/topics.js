@@ -101,6 +101,22 @@ to really understand how React works and how to use it efficiently.
       'Validating Props easily with React PropTypes'
     ]
   },
+  react_managing_application_state: {
+    title: 'Managing application state in React.js',
+    slug: 'react-managing-application-state',
+    description: `One of the hardest parts of large application development is managing state. In this topics you will 
+    find ways to manage application state. They each are intended to solve some specific problems.`,
+    similar: [
+      'How to manage the application state in React',
+      'Best practices to manage the application state',
+      'React state management libraries',
+      'React state management 2018',
+      'React without state management',
+      'React Context api vs Redux',
+      'React context api tutorial',
+      'React context provider',
+    ]
+  },
   component_state: {
     title: 'React Component State',
     slug: 'react-component-state',

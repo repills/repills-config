@@ -6,7 +6,7 @@ module.exports = {
   name: 'React.js',
   icon: 'ReactIcon',
   color: '#53c1de',
-  path: '/reactjs/',
+  basePath: '/reactjs/',
   description: 'Dive deep into React, one of the most powerful JavaScript library for building interactive user interfaces.',
   maintainers: [
     {
