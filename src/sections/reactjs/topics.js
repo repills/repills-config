@@ -105,7 +105,7 @@ to really understand how React works and how to use it efficiently.
     title: 'Managing application state in React.js',
     slug: 'react-managing-application-state',
     description: `One of the hardest parts of large application development is managing state. In this topics you will 
-    find ways to manage application state. They each are intended to solve some specific problems.`,
+find ways to manage application state. They each are intended to solve some specific problems.`,
     similar: [
       'How to manage the application state in React',
       'Best practices to manage the application state',
@@ -114,7 +114,7 @@ to really understand how React works and how to use it efficiently.
       'React without state management',
       'React Context api vs Redux',
       'React context api tutorial',
-      'React context provider',
+      'React context provider'
     ]
   },
   component_state: {
